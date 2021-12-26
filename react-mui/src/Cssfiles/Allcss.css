@@ -1,0 +1,30 @@
+#table {
+  margin: 50px 0px 0px 50px;
+  width: 90%;
+}
+#trow {
+  background-color: black;
+}
+#cell {
+  text-shadow: 2px 1px slategrey;
+  font-size: 25px;
+  color: white;
+}
+#tcell {
+  background-color: beige;
+  font-size: 23px;
+}
+#btne {
+  background-color: #4821f6;
+  color: white;
+  margin: 18px 15px;
+  text-transform: none;
+  font-size: 17px;
+  font-weight: 550;
+}
+#btnd {
+  font-size: 17px;
+  background-color: #c82828;
+  font-weight: 550;
+  text-transform: none;
+}

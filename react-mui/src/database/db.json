@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "sonu sharma",
+      "work": "cake shop owner",
+      "email": "sonusharma343849@gmail.com",
+      "phone": "9584956649",
+      "id": 1
+    },
+    {
+      "name": "rohan patel",
+      "work": "softbank manager",
+      "email": "roahan343@gmail.com",
+      "phone": "8789768657",
+      "id": 2
+    },
+    {
+      "name": "nikhil das",
+      "work": "software engineer",
+      "email": "nikhildas4564@gmail.com",
+      "phone": "8789757897",
+      "id": 3
+    },
+    {
+      "name": "ashish chanchalani",
+      "work": "youtuber",
+      "email": "ashish4765@gmail.com",
+      "phone": "8789712317",
+      "id": 4
+    }
+  ]
+}

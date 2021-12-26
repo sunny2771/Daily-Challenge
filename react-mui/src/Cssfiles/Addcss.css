@@ -1,0 +1,31 @@
+#form0 {
+  font-size: 30px;
+  position: relative;
+  top: 56px;
+  margin-right: 639px;
+  padding-right: 1px;
+  margin-left: 556px;
+  text-align: center;
+  background-color: #2f4140;
+  color: white;
+  border-radius: 10px;
+}
+#form1 {
+  width: 75%;
+  margin: 100px 13px 3px 156px;
+}
+
+#form2 {
+  margin: 19px;
+}
+
+form3 {
+  font-size: 56px;
+  padding: 23px 43px;
+}
+#btn {
+  font-size: 25px;
+  color: white;
+  background-color: #3e3eae;
+  padding: 2px;
+}
